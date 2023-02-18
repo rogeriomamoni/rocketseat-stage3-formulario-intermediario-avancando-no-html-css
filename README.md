@@ -29,9 +29,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  Nesse módulo foi proposto recriar uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
 
 - Estilos de página;
-- Agrupamentos de campois com fieldset e legend;
+- Agrupamentos de campos com fieldset e legend;
 - Formatação e ajuste de campos do fieldset;
-- Estolos para o submit;
+- Estilos para o submit;
 - Validação de campos e submetendo fomulários;
 
   
