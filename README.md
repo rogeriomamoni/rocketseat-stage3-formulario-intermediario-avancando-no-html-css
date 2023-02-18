@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulário Intermediário" src="./images/imageReadme.png" width="100%">
+  <img alt="Formulário Intermediário" src="./image/imageReadme.png" width="50%">
 </p>
 
 ## 🛠 Tecnologias
