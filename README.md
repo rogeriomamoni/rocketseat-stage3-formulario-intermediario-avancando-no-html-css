@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Agrupamentos de campos com fieldset e legend;
 - Formatação e ajuste de campos do fieldset;
 - Estilos para o submit;
-- Validação de campos e submetendo fomulários;
+- Validação de campos e submetendo fomulários.
 
   
 </p>
